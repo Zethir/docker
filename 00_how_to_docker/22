@@ -1,0 +1,1 @@
+docker swarm join --token SWMTKN-1-4g9r58gyi09ty32awgik8958k009lt8n1we2v84rciyd01pz6m-ewse26o3x2g4od2klnb4y1cxp 192.168.99.100:2377
